@@ -1,5 +1,5 @@
 # keeb-x3
-a 1800-type custom keyboard with 105 keys
+a 1800-type ortholinear keyboard with 105 keys
 
 ![Render](pics/layout.png)
 
