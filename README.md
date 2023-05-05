@@ -1,5 +1,10 @@
+# The RP2040 chip-powered V2 of this project has been relocated to [Codeberg](https://codeberg.org/Wanesty/keeb-x3)
+it's developement will remain there for present and future iterations if I ultimately favor it over GitHub.
+
+---
+
 # keeb-x3
-a 1800-type ortholinear keyboard with 105 keys
+a 1800-style ortholinear keyboard with 105 keys
 
 ![Render](pics/layout.png)
 
@@ -7,6 +12,5 @@ a 1800-type ortholinear keyboard with 105 keys
 - it is also made to be easily swapped between QWERTY, Dvorak and Colemak, to accentuate the need to detach ourselves from the 1873 typewriters.
 
 
-### Currently using a RP pico but a v2:tm: could use a rp2040 and SMD components directly
 
-The Pico's USB B have to be wired to the "keeb-x3"'s USB C port by using the "TP1, TP2, TP3" pads availlable on the bottom of the Pico
+#### The Pico's USB B have to be wired to the "keeb-x3"'s USB C port by using the "TP1, TP2, TP3" pads availlable on the bottom of the Pico
